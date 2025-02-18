@@ -66,8 +66,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-=======
 		
 		<!-- JSP를 사용하기 위한 의존성 -->
 		<dependency>
@@ -101,7 +99,6 @@
 		    <version>2.18.0</version>
 		</dependency>
 		
->>>>>>> branch 'main' of https://github.com/hiphop5782/kh15-semiproject.git
 	</dependencies>
 
 	<build>
