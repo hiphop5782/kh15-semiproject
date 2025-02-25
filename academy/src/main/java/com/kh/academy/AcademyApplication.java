@@ -10,8 +10,6 @@ public class AcademyApplication {
 		SpringApplication.run(AcademyApplication.class, args);
 	}
 
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> refs/remotes/origin/main
+

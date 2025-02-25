@@ -10,8 +10,6 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(AcademyApplication.class);
 	}
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> refs/remotes/origin/main
+
+
