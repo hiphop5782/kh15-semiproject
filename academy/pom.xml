@@ -66,6 +66,8 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
+=======
 		
 		<!-- JSP를 사용하기 위한 의존성 -->
 		<dependency>
@@ -99,6 +101,7 @@
 		    <version>2.18.0</version>
 		</dependency>
 		
+>>>>>>> refs/remotes/origin/main
 	</dependencies>
 
 	<build>
