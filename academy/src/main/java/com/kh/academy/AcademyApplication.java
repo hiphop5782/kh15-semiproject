@@ -11,3 +11,11 @@ public class AcademyApplication {
 	}
 	}
 
+<<<<<<< HEAD
+=======
+
+
+
+}
+
+>>>>>>> refs/remotes/origin/main
